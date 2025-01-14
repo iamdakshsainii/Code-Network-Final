@@ -61,7 +61,7 @@ import React, { useState } from 'react';
           title: 'MLH Local Hack Day',
           date: 'December 2024',
           description: 'MLH Local Hack Day is a global celebration of learning, building, and sharing. Join thousands of students around the world for a day of hacking, workshops, and fun.',
-          image: 'https://mlh.io/assets/local-hack-day/local-hack-day-share-image-1200x630-01-9999999999999999999999999999999999999999999999999999999999999999.png',
+          image: 'https://miro.medium.com/v2/resize:fit:1000/1*ByWHlrGnKFMvk14N3jSpEA.jpeg',
           registrationLink: 'https://localhackday.mlh.io/',
           location: 'Various Locations',
           category: 'Hackathon'
@@ -70,7 +70,7 @@ import React, { useState } from 'react';
           title: 'CodeChef SnackDown',
           date: 'June 2025',
           description: 'CodeChef SnackDown is a global programming competition. Compete with the best programmers from around the world and win exciting prizes.',
-          image: 'https://blog.codechef.com/wp-content/uploads/2023/02/SnackDown-2023-Blog-Banner-1024x576.png',
+          image: 'https://th.bing.com/th/id/OIP.J_mQ8cb4d3ifAWejdyDLBQHaFP?rs=1&pid=ImgDetMain',
           registrationLink: 'https://www.codechef.com/snackdown',
           location: 'Virtual',
           category: 'Coding Competition'
@@ -79,7 +79,7 @@ import React, { useState } from 'react';
           title: 'Microsoft Imagine Cup',
           date: 'March 2025',
           description: 'Microsoft Imagine Cup is a global student technology competition. Create innovative solutions using Microsoft technologies and showcase your skills.',
-          image: 'https://www.microsoft.com/en-us/themes/imaginecup/images/og-image.png',
+          image: 'https://th.bing.com/th/id/R.f5de2ff273aa35c37a02b2115ec26eac?rik=5Q%2bt%2fqPHaE%2flqw&riu=http%3a%2f%2fbusinessoverbroadway.com%2fwp-content%2fuploads%2f2018%2f07%2fImagine-Cup-Logo_color_CMYK_PNG.png&ehk=fZ9hiPbOKmHY3bMqoS3YJ5wA1HX%2fZsizbdFmZECW7hw%3d&risl=&pid=ImgRaw&r=0',
           registrationLink: 'https://imaginecup.microsoft.com/',
           location: 'Virtual',
           category: 'Technology Competition'
@@ -88,7 +88,7 @@ import React, { useState } from 'react';
           title: 'ACM International Collegiate Programming Contest (ICPC)',
           date: 'May 2025',
           description: 'ACM ICPC is a global programming competition for university students. Compete in teams to solve complex algorithmic problems.',
-          image: 'https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/ACM_ICPC_logo.svg/1200px-ACM_ICPC_logo.svg.png',
+          image: 'https://pbs.twimg.com/media/E9PtMPsWUAA1Tt8.jpg:large',
           registrationLink: 'https://icpc.global/',
           location: 'Various Locations',
           category: 'Coding Competition'
