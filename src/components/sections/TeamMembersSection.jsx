@@ -6,7 +6,7 @@ import React, { useState } from 'react';
         name: 'Daksh Saini',
         title: 'Founder & Developer',
         image: 'public/images/founder.webP',
-        intro: 'Founder of CodeX Network and Passionate B.Tech student with expertise in web development. On a mission to make learning accessible and fun!',
+        intro: 'Founder of CodeX Network and Passionate B.Tech student with expertise in web development. On a mission to make learning accessible and fun !',
         social: {
           instagram: 'https://www.instagram.com/dakshsainii/',
           linkedin: 'https://www.linkedin.com/in/dakshsainii/',
