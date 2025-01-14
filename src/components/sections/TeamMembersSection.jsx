@@ -1,12 +1,11 @@
 import React, { useState } from 'react';
     import { FaInstagram, FaLinkedin, FaGithub } from 'react-icons/fa';
-    import founderImage from './src/founder.jpg';
 
     const teamMembers = [
       {
         name: 'Daksh Saini',
         title: 'Founder & Developer',
-        image: {founderImage},
+        image: "https://cdn3.iconfinder.com/data/icons/online-user-1/120/group-2-512.png",
         intro: 'Founder of CodeX Network and Passionate B.Tech student with expertise in web development. On a mission to make learning accessible and fun!',
         social: {
           instagram: 'https://www.instagram.com/dakshsainii/',
