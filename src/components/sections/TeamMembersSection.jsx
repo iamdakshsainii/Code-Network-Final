@@ -5,7 +5,7 @@ import React, { useState } from 'react';
       {
         name: 'Daksh Saini',
         title: 'Founder & Developer',
-        image: 'dist/assets/images/founder.webP',
+        image: 'dist/images/founder.webP',
         intro: 'Founder of CodeX Network and Passionate B.Tech student with expertise in web development. On a mission to make learning accessible and fun !',
         social: {
           instagram: 'https://www.instagram.com/dakshsainii/',
