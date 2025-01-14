@@ -5,7 +5,7 @@ import React, { useState } from 'react';
       {
         name: 'Daksh Saini',
         title: 'Founder & Developer',
-        image: 'dist/images/founder.webP',
+        image: 'public/images/founder.webP',
         intro: 'Founder of CodeX Network and Passionate B.Tech student with expertise in web development. On a mission to make learning accessible and fun !',
         social: {
           instagram: 'https://www.instagram.com/dakshsainii/',
@@ -16,7 +16,7 @@ import React, { useState } from 'react';
       {
         name: 'Ashish Soni',
         title: 'Founder Member & Lead Generator',
-        image: 'dist/assets/images/ashish.webP',
+        image: 'public/images/ashish.webP',
         intro: 'Founder member and Passionate Coder ',
         social: {
           instagram: 'https://www.instagram.com/ashishxsoni/#',
@@ -27,7 +27,7 @@ import React, { useState } from 'react';
       {
         name: 'Saurabh Yadav',
         title: 'Social Media Manager',
-        image: 'dist/assets/images/saurabh.webP',
+        image: 'public/images/saurabh.webP',
         intro: 'Experienced backend developer with a strong background in server-side technologies. Building the backbone of the web, one API at a time!',
         social: {
           instagram: 'https://www.instagram.com/thesaurabhyadavv',
@@ -38,7 +38,7 @@ import React, { useState } from 'react';
       {
         name: 'Vishakha Mishra',
         title: 'Manager & Content Writer',
-        image: 'dist/assets/images/vishaka.webP',
+        image: 'public/images/vishaka.webP',
         intro: 'Frontend enthusiast with a passion for creating engaging and responsive user interfaces. Turning ideas into interactive experiences!',
         social: {
           instagram: 'https://www.instagram.com/itz_vishakha_24/',
@@ -49,7 +49,7 @@ import React, { useState } from 'react';
       {
         name: 'Tanishka Singh',
         title: 'Technical & PR Head',
-        image: 'dist/assets/images/tanishka.webP',
+        image: 'public/images/tanishka.webP',
         intro: 'Data scientist with a knack for extracting insights from complex datasets and building predictive models. Making sense of data, one analysis at a time!',
         social: {
           instagram: null,
