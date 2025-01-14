@@ -90,7 +90,7 @@ import React, { useState } from 'react';
 
         return (
           <section id="team-members" className="container mx-auto px-4 py-16 mb-16">
-            <h2 className="text-4xl font-bold text-center mb-12">Meet the Minds Behind CodeX</h2>
+            <h2 className="text-4xl font-bold text-center mb-12">Meet the Minds Behind CodeX </h2>
             <p className="text-gray-400 text-center mb-8">
               We're a team of passionate individuals dedicated to making learning accessible and fun for all engineering students.
             </p>
@@ -100,7 +100,7 @@ import React, { useState } from 'react';
                   onClick={handlePrevMember}
                   className="absolute left-0 top-1/2 transform -translate-y-1/2 p-2 text-gray-400 hover:text-blue-500 focus:outline-none"
                 >
-                  <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={1.5} stroke="currentColor" className="w-6 h-6">
+                  <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth = {1.5} stroke="currentColor" className="w-6 h-6">
                     <path strokeLinecap="round" strokeLinejoin="round" d="M15.75 19.5L8.25 12l7.5-7.5" />
                   </svg>
                 </button>
