@@ -12,13 +12,13 @@ import React from 'react';
                 CodeX Network is designed to empower B.Tech students with the right tools, resources, and career pathways to succeed in their academic and professional journey. Our platform consolidates study materials, internship opportunities, and career guidance, ensuring students have access to everything they need to thrive.
               </p>
               <div className="flex justify-start space-x-4 mt-4">
-                <a href="https://www.instagram.com/your_instagram_profile" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-blue-500">
+                <a href="https://www.instagram.com/codexnetwork8/" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-blue-500">
                   <FaInstagram className="h-6 w-6" />
                 </a>
-                <a href="https://www.linkedin.com/in/your_linkedin_profile" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-blue-500">
+                <a href="https://www.linkedin.com/company/codex-network/" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-blue-500">
                   <FaLinkedin className="h-6 w-6" />
                 </a>
-                 <a href="https://wa.me/your_whatsapp_number" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-blue-500">
+                 <a href="https://chat.whatsapp.com/JbGXT1pjy0a020qAhGGmCx" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-blue-500">
                   <FaWhatsapp className="h-6 w-6" />
                 </a>
               </div>
